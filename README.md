@@ -1,21 +1,106 @@
-# 💫 About Me:
-<br><br>I am a passionate and versatile DevOps Engineer with a strong background in cloud technologies and automation. My expertise spans across Go, Kubernetes, and learning to develop custom operators, as well as managing infrastructure with tools like Terraform. I am proficient in deploying and managing applications on leading cloud platforms including AWS, GCP, and Azure.<br><br>Additionally, I have experience with backend development using Python, Java (Spring Boot), and MySQL, ensuring robust, scalable, and efficient systems. My focus is on optimizing development and operations workflows, implementing continuous integration/continuous deployment (CI/CD) pipelines, and enhancing infrastructure automation to achieve seamless software delivery.
+# 👋 Hi, I'm Palaniraj Kandasamy  
 
+🚀 **DevOps Engineer | Cloud | Kubernetes | AI Systems**  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/palanirajkandasamy) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat-square&logo=splunk&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Palanirajkandasamy63&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Palanirajkandasamy63&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Palanirajkandasamy63&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Palanirajkandasamy63&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I design, build, and scale **cloud-native infrastructure** and **intelligent systems**. My work focuses on automation, reliability, and integrating modern AI capabilities into production-grade environments.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Palanirajkandasamy63&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me  
+- 🔧 DevOps Engineer with strong expertise in **Cloud & Automation**  
+- ☁️ Hands-on with **AWS, GCP, Azure**  
+- ⚙️ Building scalable systems using **Kubernetes & Terraform**  
+- 🔁 Passionate about **CI/CD, Infrastructure as Code, and SRE practices**  
+- 🤖 Exploring **AI-powered systems, LLMs, and autonomous agents**  
+- 🧠 Strong focus on **System Design & Distributed Architectures**
+
+---
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/palanirajkandasamy)
+
+---
+
+## 💻 Tech Stack  
+
+### 🚀 DevOps & Cloud  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+
+---
+
+### 🔄 CI/CD & Automation  
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)  
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-181717?style=flat-square&logo=gitlab&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white)  
+
+---
+
+### 📊 Monitoring & Observability  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)  
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)  
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)  
+
+---
+
+### 👨‍💻 Programming & Backend  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)  
+
+---
+
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)  
+
+---
+
+### 🤖 AI / LLM & Advanced Systems  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)  
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)  
+![Claude](https://img.shields.io/badge/Claude-8A2BE2?style=flat-square)  
+![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=flat-square)  
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square)  
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)  
+![AI Agents](https://img.shields.io/badge/AI%20Agents-4B8BBE?style=flat-square)  
+![Vector DB](https://img.shields.io/badge/Vector%20DB-006400?style=flat-square)  
+![LLMOps](https://img.shields.io/badge/LLMOps-1E90FF?style=flat-square)  
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-DAA520?style=flat-square)  
+![System Design](https://img.shields.io/badge/System%20Design-6A5ACD?style=flat-square)  
+
+---
+
+## 📌 What I’m Working On  
+- 🔹 Building **Kubernetes Operators using Go**  
+- 🔹 Designing **scalable DevOps pipelines**  
+- 🔹 Exploring **AI Agents + RAG-based systems**  
+- 🔹 Integrating **LLMs into DevOps workflows (AIOps)**  
+
+---
+
+## ⚡ Core Strengths  
+- Production troubleshooting & reliability (SRE mindset)  
+- CI/CD pipeline design and automation  
+- Cloud infrastructure & scaling  
+- Observability & performance tuning  
+- AI + DevOps integration (emerging focus)  
+
+---
+
+## 📈 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=palanirajkandasamy&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Quote I Believe In  
+> “Automate everything. Monitor everything. Improve continuously.”

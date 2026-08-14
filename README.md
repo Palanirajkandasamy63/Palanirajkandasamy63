@@ -1,106 +1,132 @@
-# 👋 Hi, I'm Palaniraj Kandasamy  
+<div align="center">
 
-🚀 **DevOps Engineer | Cloud | Kubernetes | AI Systems**  
+# Hi, I'm Palaniraj Kandasamy 👋
 
-I design, build, and scale **cloud-native infrastructure** and **intelligent systems**. My work focuses on automation, reliability, and integrating modern AI capabilities into production-grade environments.
+### Senior DevOps / Cloud & SRE Engineer | Automating everything, one pipeline at a time ⚙️☁️🤖
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+cloud+platforms+%E2%98%81%EF%B8%8F;Automating+everything+with+DevOps+%2B+AI+%F0%9F%A4%96;Kubernetes+%7C+Terraform+%7C+AIOps;Exploring+LLMs+%2B+Agentic+Systems+%F0%9F%A7%A0&font=Fira%20Code&center=true&width=650&height=45&duration=3000&pause=800&color=2EA3F2&vCenter=true&size=22" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 💫 About Me  
-- 🔧 DevOps Engineer with strong expertise in **Cloud & Automation**  
-- ☁️ Hands-on with **AWS, GCP, Azure**  
-- ⚙️ Building scalable systems using **Kubernetes & Terraform**  
-- 🔁 Passionate about **CI/CD, Infrastructure as Code, and SRE practices**  
-- 🤖 Exploring **AI-powered systems, LLMs, and autonomous agents**  
+## 💫 About Me
+
+- 🔧 DevOps / SRE Engineer with 8+ years designing and running resilient cloud infrastructure
+- ☁️ Hands-on with **AWS, GCP, and Azure** — multi-cloud by default
+- ⚙️ Building scalable systems with **Kubernetes & Terraform**
+- 🔁 Passionate about **CI/CD, Infrastructure as Code, and SRE practices**
+- 🤖 Exploring **AI-powered systems, LLMs, and autonomous agents** to automate DevOps itself
 - 🧠 Strong focus on **System Design & Distributed Architectures**
+- 📈 Currently blending **DevOps + AIOps** — teaching pipelines to think, not just run
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/palanirajkandasamy)
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/palaniraj-kandasamy/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palanirajkandasamy63)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palanirajkandasamy@gmail.com)
+
+</div>
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Tech Stack
 
-### 🚀 DevOps & Cloud  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+### 🚀 DevOps & Cloud
+<div align="left">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Istio_%2F_Anthos-466BB0?style=for-the-badge&logo=istio&logoColor=white" />
+</div>
 
----
+### 🔄 CI/CD & Automation
+<div align="left">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+</div>
 
-### 🔄 CI/CD & Automation  
-![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)  
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-181717?style=flat-square&logo=gitlab&logoColor=white)  
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white)  
+### 📊 Monitoring & Observability
+<div align="left">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/Cortex-FF6B6B?style=for-the-badge&logoColor=white" />
+</div>
 
----
+### 👨‍💻 Programming & Backend
+<div align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" />
+</div>
 
-### 📊 Monitoring & Observability  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)  
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)  
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)  
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)  
+### 🗄️ Databases
+<div align="left">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</div>
 
----
-
-### 👨‍💻 Programming & Backend  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)  
-
----
-
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)  
-
----
-
-### 🤖 AI / LLM & Advanced Systems  
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)  
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)  
-![Claude](https://img.shields.io/badge/Claude-8A2BE2?style=flat-square)  
-![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=flat-square)  
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square)  
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)  
-![AI Agents](https://img.shields.io/badge/AI%20Agents-4B8BBE?style=flat-square)  
-![Vector DB](https://img.shields.io/badge/Vector%20DB-006400?style=flat-square)  
-![LLMOps](https://img.shields.io/badge/LLMOps-1E90FF?style=flat-square)  
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-DAA520?style=flat-square)  
-![System Design](https://img.shields.io/badge/System%20Design-6A5ACD?style=flat-square)  
+### 🤖 AI / LLM & Advanced Systems
+<div align="left">
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-6E56CF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Agents-FF6F61?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AIOps-00A67E?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
 
 ---
 
-## 📌 What I’m Working On  
-- 🔹 Building **Kubernetes Operators using Go**  
-- 🔹 Designing **scalable DevOps pipelines**  
-- 🔹 Exploring **AI Agents + RAG-based systems**  
-- 🔹 Integrating **LLMs into DevOps workflows (AIOps)**  
+## 📌 What I'm Working On
+
+- 🔹 Building **Kubernetes Operators using Go**
+- 🔹 Designing **scalable DevOps pipelines** with built-in test and security gates
+- 🔹 Exploring **AI Agents + RAG-based systems** for infrastructure automation
+- 🔹 Integrating **LLMs into DevOps workflows (AIOps)** — from log triage to auto-remediation
 
 ---
 
-## ⚡ Core Strengths  
-- Production troubleshooting & reliability (SRE mindset)  
-- CI/CD pipeline design and automation  
-- Cloud infrastructure & scaling  
-- Observability & performance tuning  
-- AI + DevOps integration (emerging focus)  
+## ⚡ Core Strengths
+
+- 🛠️ Production troubleshooting & reliability (SRE mindset)
+- 🔁 CI/CD pipeline design and automation
+- ☁️ Cloud infrastructure & scaling
+- 📊 Observability & performance tuning
+- 🤖 AI + DevOps integration *(emerging focus)*
 
 ---
 
-## 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=palanirajkandasamy&show_icons=true&theme=radical)
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Palanirajkandasamy63&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palanirajkandasamy63&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Palanirajkandasamy63&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-## 🔥 Quote I Believe In  
-> “Automate everything. Monitor everything. Improve continuously.”
+<div align="center">
+
+### 🔥 Quote I Believe In
+
+> *"Automate everything. Monitor everything. Improve continuously."*
+
+</div>
